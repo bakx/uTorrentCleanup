@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uTorrentCleanup", "uTorrentCleanup\uTorrentCleanup.csproj", "{7B681C6A-4CE2-4933-9161-C605603DFE7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B681C6A-4CE2-4933-9161-C605603DFE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B681C6A-4CE2-4933-9161-C605603DFE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B681C6A-4CE2-4933-9161-C605603DFE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B681C6A-4CE2-4933-9161-C605603DFE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0871684-5640-4D36-9820-FD4B67C80719}
+	EndGlobalSection
+EndGlobal
